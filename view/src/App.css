@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@500;700&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mynavbar{
+  background-color: #012E39;
+  height: 8vh;
+  /* text-align: end; */
+  
+
+
+  
+
+}
+
+html{
+  background-image: radial-gradient(#024e5f,#051625,black);
+    height: 100%;
+    background-repeat:no-repeat;
+}
+.mapgo{
+  display: flex;
+  text-decoration: none;
+  color: #D4D0D0;
+  font-family: 'Alegreya', serif;
+  font-size: 5vh;
+  padding-left: 12px;
+  padding-top: 4px;
+  font-weight: 1000;
+  
+}
+.nav-link{
+  text-decoration: none;
+  display: flex;
+}
+.link{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  
+}
+
+.nav-link{
+  font-size: 2.6vh;
+  padding: 2.3vh;
+  color: white;
+}
+.pages{
+  display: flex;
+  
+}
