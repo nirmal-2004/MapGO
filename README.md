@@ -1,3 +1,3 @@
 # MapGO
-CS253 Course Project
+CS253 Course Project <br>
 Mentor: Prof. Indranil Saha
