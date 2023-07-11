@@ -1,2 +1,3 @@
-# CS253 project
-group name: WallE(s), group #6
+# MapGO
+CS253 Course Project
+Mentor: Prof. Indranil Saha
